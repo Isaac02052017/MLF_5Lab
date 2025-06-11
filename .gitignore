@@ -1,0 +1,18 @@
+# Bytecode and cache
+__pycache__/
+*.pyc
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+env/
+venv/
+.venv/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
